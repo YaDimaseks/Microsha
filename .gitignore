@@ -1,4 +1,7 @@
 #ignore VSCode files
-*.vs
-*.vcxproj
+.vs/microsha/v16
+test*
+*.vcxproj*
 *.sln
+a.out
+
