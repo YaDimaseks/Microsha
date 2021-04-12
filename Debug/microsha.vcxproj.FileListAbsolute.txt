@@ -1,0 +1,2 @@
+E:\Git\infa\microsha\Debug\microsha.exe
+E:\Git\infa\microsha\Debug\microsha.pdb
