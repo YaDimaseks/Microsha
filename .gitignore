@@ -4,4 +4,4 @@ test*
 *.vcxproj*
 *.sln
 a.out
-
+/debug
